@@ -32,7 +32,7 @@ const estelar = {
 
 
 
-const opcoesCores = [verdeCipreste, azulInverno, meiaNoite, rosaClaro, estelar]
+const opcoesCores = [verdeCipreste, azulInverno, meiaNoite, estelar,rosaClaro]
 const opcoesTamanho = ['41 mm', '45 mm']
 
 let imagemSelecionada = 1;
